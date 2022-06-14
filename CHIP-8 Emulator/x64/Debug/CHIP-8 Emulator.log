@@ -1,0 +1,5 @@
+﻿  Chip8.cpp
+C:\Users\benea\Documents\School\2022 - Spring\CSCE 2014 - Programming Foundations II\csce-2014\projects\project7\CHIP-8 Emulator\src\Chip8.cpp(70,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  CHIP-8 Emulator.vcxproj -> C:\Users\benea\Documents\School\2022 - Spring\CSCE 2014 - Programming Foundations II\csce-2014\projects\project7\CHIP-8 Emulator\x64\Debug\CHIP-8 Emulator.exe
